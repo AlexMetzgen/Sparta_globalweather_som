@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative '../lib/weather'
+require_relative '../lib/superclass'
 
 
 RSpec.configure do |config|
